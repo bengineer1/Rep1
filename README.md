@@ -1,6 +1,5 @@
 # Rep1
 First Repository 
-Collection for first projects 
 
 Some information about me:
 My goals on github is
